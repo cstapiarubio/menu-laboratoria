@@ -27,7 +27,12 @@ nav{
 nav ul{
 	flex-direction: row;
 	justify-content: space-around;
-	align-self: center;
+	align-self: center;	
+}
+
+nav ul li a{
+	border-right: #7B0B39 solid;
+	padding-right: 40px;
 }
 
 .flex-container li a:hover{

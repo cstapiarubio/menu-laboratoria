@@ -2,7 +2,24 @@
 	*{
 		font-family:'Lobster', cursive;
 	}
-<div>
-	<span class="fa fa-home" aria-hidden="true"></span>
-</div>
+
+	nav{
+		background-color: #584C57;
+		height: 180px;
+	}
+
+	nav ul{
+		flex-direction: column;
+	}
+
+	nav ul li a{
+		border-bottom: #F12EE1 solid;
+		border-right: none;
+	}
+	
+
+	.flex-container li a:hover{
+		background-color: #C768BF;
+	}
+
 }
