@@ -1,3 +1,8 @@
-@media only screen (min-width: ) and (max-width: ){
-	
+@media only screen and (max-width: 500px){
+	*{
+		font-family:'Lobster', cursive;
+	}
+<div>
+	<span class="fa fa-home" aria-hidden="true"></span>
+</div>
 }
