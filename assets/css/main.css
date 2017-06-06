@@ -17,7 +17,7 @@ nav{
 	display: flex;
 }
 
-.flex-container li a{
+.flex-container a{
 	font-size: 25px;
 	color: whitesmoke;
 	text-decoration: none;
@@ -30,11 +30,11 @@ nav ul{
 	align-self: center;	
 }
 
-nav ul li a{
+nav ul a{
 	border-right: #7B0B39 solid;
 	padding-right: 40px;
 }
 
-.flex-container li a:hover{
+.flex-container a:hover{
 	background-color: #5C0F40;
 }

@@ -12,13 +12,13 @@
 		flex-direction: column;
 	}
 
-	nav ul li a{
+	nav ul a{
 		border-bottom: #F12EE1 solid;
 		border-right: none;
 	}
 	
 
-	.flex-container li a:hover{
+	.flex-container a:hover{
 		background-color: #C768BF;
 	}
 
